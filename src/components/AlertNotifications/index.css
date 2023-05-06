@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.heading-notification {
+  color: #0f172a;
+  font-family: 'Roboto';
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.green {
+  color: #2dca73;
+}
+.red {
+  color: #ff0b37;
+}
+.yellow {
+  color: #ffb800;
+}
+.blue {
+  color: #0f81e0;
+}
+.flex-container {
+  box-shadow: #ffffff 0px 5px 15px;
+  background-color: #e5e5e5;
+  background-size: cover;
+  display: flex;
+  margin: 5px;
+  width: 38%;
+}
+.icon-url {
+  height: 40px;
+  margin: 10px;
+  align-self: center;
+}
+.bg-color1 {
+  color: #2dca73;
+}
+.bg-color2 {
+  color: #ff0b37;
+}
+.bg-color3 {
+  color: #ffb800;
+}
+.bg-color4 {
+  color: #0f81e0;
+}

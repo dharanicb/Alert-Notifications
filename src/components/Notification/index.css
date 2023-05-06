@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+  display: flex;
+}
+.info-heading {
+  color: #64748b;
+  font-family: 'Roboto';
+}
+.box-content {
+  font-family: 'Roboto';
+  font-size: 32px;
+}
+.icon {
+  background-color: transparent;
+  align-self: center;
+  justify-content: end;
+}
+.icon-url {
+  height: 40px;
+  margin: 10px;
+  align-self: center;
+  text-align: end;
+  place-items: end;
+}
+.grid {
+  align-self: flex-start;
+  text-align: left;
+}
